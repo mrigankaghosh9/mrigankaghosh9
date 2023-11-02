@@ -14,7 +14,7 @@
 - 🌐 Deep Learning
 - 🧠 Natural Language Processing (NLP)
 - 💹 Predictive Analytics
-- 📡 Data Engineering
+- 📡 Data 
 - 🛠 Feature Engineering
 
 🌱 I'm constantly exploring new techniques and pushing the boundaries of what data can reveal. From predictive modeling to data-driven decision-making, I'm always excited to tackle challenging problems.
