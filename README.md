@@ -11,7 +11,7 @@
 - 📚 Statistical Modeling
 - 🐍 Python (NumPy, Pandas, Scikit-Learn)
 - 📊 Data Visualization (Matplotlib, Seaborn, Plotly)
-- 🌐 Deep Learning
+- 🌐 Computer Vission
 - 🧠 Natural Language Processing (NLP)
 - 💹 Predictive Analytics
 - 📡 Data 
