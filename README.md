@@ -1,5 +1,8 @@
 📊 Data Scientist | 🧬 Machine Learning Enthusiast | 📈 Data Alchemist
 
+![image](https://github.com/mrigankaghosh9/mrigankaghosh9/assets/60334844/17432d02-b848-4330-b146-a4af14221fb3)
+
+
 👋 Hello, I'm MRIGANKA GHOSH, a dedicated data scientist passionate about unraveling the mysteries hidden within data. With a strong background in mathematics and a keen eye for patterns, I excel at transforming raw information into actionable insights.
 
 🔬 My toolbox includes:
