@@ -21,6 +21,6 @@
 
 
 
-📫 Interested in a collaboration or just want to chat about data science? Reach out via email at mrigankaghosh9@gail.com or connect on LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/mriganka-ghosh-84253692/).
+📫 Interested in a collaboration or just want to chat about data science? Reach out via email at mrigankaghosh9@gmail.com or connect on LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/mriganka-ghosh-84253692/).
 
 📚 Let's dive into the world of data science, where curiosity meets insights. Together, we can make data tell its story and drive meaningful change!
